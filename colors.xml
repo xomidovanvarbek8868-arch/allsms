@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_purple">#6D5DFB</color>
+    <color name="brand_blue">#4F7CFF</color>
+    <color name="bg">#F5F6FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1A1B25</color>
+    <color name="text_secondary">#6B7080</color>
+    <color name="border">#E6E8F0</color>
+    <color name="green">#1DB876</color>
+    <color name="orange">#F5A623</color>
+    <color name="red">#E5484D</color>
+    <color name="white">#FFFFFF</color>
+</resources>
