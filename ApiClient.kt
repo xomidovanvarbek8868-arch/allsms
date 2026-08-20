@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets
 import javax.net.ssl.HttpsURLConnection
 
 /**
- * allSMS backendining /api/devices/confirm va /api/device/* endpointlari bilan gaplashadi.
+ * allSMS backendining /api/devices/confirm va /api/device/ endpointlari bilan gaplashadi.
  * Qo'shimcha kutubxona (Retrofit/OkHttp) shart emas — hammasi android.jar ichida bor,
  * shuning uchun Gradle sinxronizatsiyasi tezroq va ishonchliroq bo'ladi.
  */
