@@ -173,8 +173,7 @@ if "$cygwin" || "$msys" ; then
         # Roll the args list around exactly as many times as the number of
         # args, so each arg winds up back in the position where it
         # appeared originally, this time quoted correctly for POSIX.
-        for %%a in ("$arg") do set arg=%%~a
-        shift
+               shift
         set -- "$@" "$arg"
     done
 fi
